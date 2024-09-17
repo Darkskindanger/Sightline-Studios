@@ -1342,6 +1342,18 @@ input:checked + .toggle-bg {
   width: 1rem;
 }
 
+.w-\[\] {
+  width: ;
+}
+
+.w-\[450\] {
+  width: 450;
+}
+
+.w-\[450px\] {
+  width: 450px;
+}
+
 .max-w-screen-xl {
   max-width: 1280px;
 }
